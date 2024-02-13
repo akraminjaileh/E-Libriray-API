@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Libriray-API", "E-Libriray-API\E-Libriray-API.csproj", "{F055655D-FF63-4DE1-9677-4045453D83DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F055655D-FF63-4DE1-9677-4045453D83DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F055655D-FF63-4DE1-9677-4045453D83DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F055655D-FF63-4DE1-9677-4045453D83DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F055655D-FF63-4DE1-9677-4045453D83DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA5DD98-6350-4A69-9565-8873DCA461B3}
+	EndGlobalSection
+EndGlobal
