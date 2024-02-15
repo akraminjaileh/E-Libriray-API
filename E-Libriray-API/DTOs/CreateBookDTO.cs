@@ -3,6 +3,7 @@
     public class CreateBookDTO
     {
         public int id { get; set; }
+        public int id2 { get; set; }
         public string ? titel { get; set; }
         public float ? price { get; set; }
         public string ? description { get; set; }
